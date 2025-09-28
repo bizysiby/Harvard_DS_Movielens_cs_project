@@ -6,8 +6,8 @@ MovieLens Project Submission
 
 This repository contains:
 
-Sep7-moviewlensreport.Rmd -> Project report in .rmd format
+Sep28-moviewlensreport.Rmd -> Project report in .rmd format
 
-Sep7-moviewlensreport.pdf -> Project report in .pdf format
+Sep28-moviewlensreport.pdf -> Project report in .pdf format
 
-movielens-script-sep7 RScript -> R-Script that generates the data analysis
+movielens-script-sep28 RScript -> R-Script that generates the data analysis
